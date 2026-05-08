@@ -14,7 +14,7 @@ Sou o Kauan, estudante de Ciência da Computação pela FECAP e desenvolvedor fo
 🚀 Tecnologias e ferramentas:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,vite,,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,vite,mysql,git,github,vscode" />
 </p>
 
 

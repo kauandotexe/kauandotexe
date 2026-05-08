@@ -17,34 +17,13 @@ Sou o Kauan, estudante de Ciência da Computação pela FECAP e desenvolvedor fo
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,mysql,git,github,vscode" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauandotexe&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauandotexe&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
-
-## 🖥️ GIFs / Projetos
-
 <div align="center">
 
-<!-- Coloque seus GIFs aqui -->
-
-<img width="700px" src="LINK_DO_GIF_AQUI" />
-
-<br><br>
-
-<img width="700px" src="LINK_DO_GIF_AQUI" />
+<img width="700px" src="https://tenor.com/view/dark-souls-gif-16150712255956092871" />
 
 </div>
-
 ---
 
 ## 📫 Contato
